@@ -1,0 +1,17 @@
+C:\Users\trans\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\trans\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\trans\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\trans\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.deps.json
+C:\Users\trans\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.runtimeconfig.json
+C:\Users\trans\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.runtimeconfig.dev.json
+C:\Users\trans\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.dll
+C:\Users\trans\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.pdb
+C:\Users\trans\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.csprojAssemblyReference.cache
+C:\Users\trans\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.csproj.CoreCompileInputs.cache
+C:\Users\trans\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.AssemblyInfoInputs.cache
+C:\Users\trans\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.AssemblyInfo.cs
+C:\Users\trans\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.csproj.CopyComplete
+C:\Users\trans\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.dll
+C:\Users\trans\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.pdb
+C:\Users\trans\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\BankProject.dll
+C:\Users\trans\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\BankProject.pdb
